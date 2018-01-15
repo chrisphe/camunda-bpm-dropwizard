@@ -55,7 +55,8 @@ _specify a short list of things that yet need to be done (unless you organize it
 
 ## Maintainer
 
-* [Jan Galinski](https://github.com/jangalinski), [Holisticon AG](http://www.holisticon.de/)
+* This was originally maintained by Jan Galinski, and subsequently contributed to by Chris Pheby. The original repository is no longer 
+being maintained, hence this fork.
 
 ## License
 
